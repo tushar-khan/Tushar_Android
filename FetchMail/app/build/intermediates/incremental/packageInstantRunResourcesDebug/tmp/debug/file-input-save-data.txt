@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jul 17 20:50:21 BDT 2019
+1.base=C\:\\Users\\Tushar Khan\\AndroidStudioProjects\\FetchMail\\app\\build\\intermediates\\assets\\debug
+2.path=non_important.txt
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\Tushar Khan\\AndroidStudioProjects\\FetchMail\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=important.txt
+0.set=ASSET
+0.base=C\:\\Users\\Tushar Khan\\AndroidStudioProjects\\FetchMail\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=test.txt

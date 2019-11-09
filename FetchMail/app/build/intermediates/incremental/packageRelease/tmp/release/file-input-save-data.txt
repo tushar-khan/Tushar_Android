@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jul 06 12:41:40 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tushar Khan\\AndroidStudioProjects\\FetchMail\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500520364818",
+    "firebase_url": "https://fetchmail-e93ac.firebaseio.com",
+    "project_id": "fetchmail-e93ac",
+    "storage_bucket": "fetchmail-e93ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500520364818:android:d6ec94997883c245",
+        "android_client_info": {
+          "package_name": "com.example.tusharkhan.fetchmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500520364818-mqqd97vj4q5hk4p8sr7aatcdjov4ienq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tusharkhan.fetchmail",
+            "certificate_hash": "fc7f518aec17091af32d4456ade099a80ea922c0"
+          }
+        },
+        {
+          "client_id": "500520364818-qi9e04rdsjpjtfsr6gnlm54dh8hh2agb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4fLjIWg2q6-irOLsMOMxAHOG926xgj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500520364818-qi9e04rdsjpjtfsr6gnlm54dh8hh2agb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

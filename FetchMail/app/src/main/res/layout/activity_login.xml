@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="30dp"
+    android:background="#b3b3cc">
+
+    <Button
+        android:layout_below="@+id/text"
+        android:layout_width="200dp"
+        android:id="@+id/Inboxbutton"
+        android:layout_height="wrap_content"
+        android:text="Inbox" />
+    <Button
+        android:id="@+id/non_importantbutton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Non-important" />
+
+    <Button
+        android:id="@+id/delete_non_imp_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Delete Non-important" />
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Log Out" />
+
+</LinearLayout>

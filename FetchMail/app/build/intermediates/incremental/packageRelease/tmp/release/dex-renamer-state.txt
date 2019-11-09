@@ -1,0 +1,4 @@
+#Sat Jul 06 12:41:40 BDT 2019
+base.0=C\:\\Users\\Tushar Khan\\AndroidStudioProjects\\FetchMail\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
